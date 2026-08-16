@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -40,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
