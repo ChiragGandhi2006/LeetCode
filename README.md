@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
