@@ -25,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
