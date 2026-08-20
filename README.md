@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -139,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
