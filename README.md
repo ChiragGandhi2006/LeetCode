@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
