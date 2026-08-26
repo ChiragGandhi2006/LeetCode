@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
