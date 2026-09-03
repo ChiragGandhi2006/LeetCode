@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Queue
 |  |
 | ------- |
