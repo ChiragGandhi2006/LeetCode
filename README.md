@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
