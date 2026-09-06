@@ -233,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
