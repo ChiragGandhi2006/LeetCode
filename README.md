@@ -240,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0176-second-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
