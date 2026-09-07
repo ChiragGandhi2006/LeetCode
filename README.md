@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2057-smallest-index-with-equal-value](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
