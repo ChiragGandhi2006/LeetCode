@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2057-smallest-index-with-equal-value](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
+| [1773-count-items-matching-a-rule](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
