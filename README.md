@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
