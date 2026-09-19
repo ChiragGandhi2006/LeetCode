@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0075-sort-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
