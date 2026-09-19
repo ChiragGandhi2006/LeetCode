@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
