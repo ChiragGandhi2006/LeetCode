@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
