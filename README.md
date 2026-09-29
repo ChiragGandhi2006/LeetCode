@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2057-smallest-index-with-equal-value](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [1773-count-items-matching-a-rule](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
