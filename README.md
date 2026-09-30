@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
