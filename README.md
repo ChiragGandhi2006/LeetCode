@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0389-find-the-difference) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Bracket Sequences
 |  |
