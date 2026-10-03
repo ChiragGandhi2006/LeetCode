@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1773-count-items-matching-a-rule](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
