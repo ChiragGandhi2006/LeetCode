@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0242-valid-anagram) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0443-string-compression) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
