@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
@@ -379,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
