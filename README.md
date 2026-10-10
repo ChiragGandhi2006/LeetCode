@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0504-base-7) |
