@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
