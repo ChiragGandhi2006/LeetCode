@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
