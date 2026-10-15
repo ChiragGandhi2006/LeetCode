@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3046-split-the-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3046-split-the-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3046-split-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3046-split-the-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3046-split-the-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Matrix
