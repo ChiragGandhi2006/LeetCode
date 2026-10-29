@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
