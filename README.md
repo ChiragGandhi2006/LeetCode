@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0389-find-the-difference) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0089-gray-code) |
 | [1980-find-unique-binary-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Bracket Sequences
 |  |
