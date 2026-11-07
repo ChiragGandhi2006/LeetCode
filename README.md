@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2740-find-the-value-of-the-partition](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2740-find-the-value-of-the-partition](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
