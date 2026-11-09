@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
