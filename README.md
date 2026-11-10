@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0724-find-pivot-index) |
+| [0748-shortest-completing-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
