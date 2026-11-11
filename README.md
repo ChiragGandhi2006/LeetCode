@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1002-find-common-characters) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
