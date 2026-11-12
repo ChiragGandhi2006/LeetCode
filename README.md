@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
