@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3340-check-balanced-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3894-traffic-signal-color) |
