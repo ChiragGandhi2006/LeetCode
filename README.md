@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2740-find-the-value-of-the-partition](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ChiragGandhi2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChiragGandhi2006/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3046-split-the-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ChiragGandhi2006/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
